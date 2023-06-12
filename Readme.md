@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 - I am interested in learning Algorithms and Data Structures
 
 ## Experience
-- Contributor in [Hactoberfest], Which is the world largest multilingual content library.
+- Contributor in [Hactoberfest]
 
 
 ## GitHub Statistics
