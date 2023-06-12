@@ -15,11 +15,10 @@ Here are some ideas to get you started:
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=47ADB3&vCenter=true&width=540&height=46&lines=Welcome+to+Pratik+Bhagat%27s+GitHub+Profile...)](https://git.io/typing-svg)
 
-[![Youtube Badge](https://img.shields.io/badge/-Code%20With%20Varun-ff0000?style=square&logo=YouTube&logoColor=white&link=https://www.youtube.com/channel/UCOKSg34Y2JEvCphJ8jFyajQ)](https://www.youtube.com/channel/UCOKSg34Y2JEvCphJ8jFyajQ)
-[![Gmail Badge](https://img.shields.io/badge/-varunbansal326@gmail.com-c14438?style=square&logo=Gmail&logoColor=white&link=mailto:pratikbhagat2707@gmail.com)](mailto:pratikbhagat2707@gmail.com)
-[![Linkedin Badge](https://img.shields.io/badge/-Varun%20Kumar%20Bansal-blue?style=square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/varun-bansal-819aab200/)](https://www.linkedin.com/in/varun-bansal-819aab200/)
-[![Facebook Badge](https://img.shields.io/badge/-Varun%20Bansal-4267ff?style=square&logo=FaceBook&logoColor=white&link=https://www.facebook.com/profile.php?id=100071776040703)](https://www.facebook.com/profile.php?id=100071776040703)
-[![Instagram Badge](https://img.shields.io/badge/-varun_bansal_21-fd3958?style=square&logo=Instagram&logoColor=white&link=https://www.instagram.com/varun_bansal_21/)](https://www.instagram.com/varun_bansal_21/)
+[![Youtube Badge](https://img.shields.io/badge/-Code%20With%20Varun-ff0000?style=square&logo=YouTube&logoColor=white&link=https://www.youtube.com/channel/UCBRewejO-I8a4jkygbGnIkQ)](https://www.youtube.com/channel/UCBRewejO-I8a4jkygbGnIkQ)
+[![Gmail Badge](https://img.shields.io/badge/-pratikbhagat2707@gmail.com-c14438?style=square&logo=Gmail&logoColor=white&link=mailto:pratikbhagat2707@gmail.com)](mailto:pratikbhagat2707@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-Varun%20Kumar%20Bansal-blue?style=square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pratik-bhagat-b57897214/)](https://www.linkedin.com/in/pratik-bhagat-b57897214/)
+[![Instagram Badge](https://img.shields.io/badge/-varun_bansal_21-fd3958?style=square&logo=Instagram&logoColor=white&link=https://www.instagram.com/pratikbhagat490/)](https://www.instagram.com/pratikbhagat490/)
 ## About Me -
 - I am Pratik Bhagat, final-year student at [Indian Institute of Information Technology, Sri City](http://www.iiits.ac.in/) in CSE department.
 - I am interested in learning Algorithms and Data Structures
