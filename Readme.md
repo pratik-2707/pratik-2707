@@ -21,8 +21,7 @@ Here are some ideas to get you started:
 [![Instagram Badge](https://img.shields.io/badge/-pratikbhagat490-fd3958?style=square&logo=Instagram&logoColor=white&link=https://www.instagram.com/pratikbhagat490/)](https://www.instagram.com/pratikbhagat490/)
 ## About Me -
 - I am Pratik Bhagat, final-year student at [Indian Institute of Information Technology, Sri City](http://www.iiits.ac.in/) in CSE department.
-- I am interested in learning Algorithms and Data Structures
-I am a dedicated and proficient individual with a passion for software development. With a solid foundation in C++, Java, and ReactJS, I excel in problem-solving, data structures, and algorithms.
+- I am a dedicated and proficient individual with a passion for software development. With a solid foundation in C++, Java, and ReactJS, I excel in problem-solving, data structures, and algorithms.
 One of my notable achievements includes qualifying for Google Kickstart rounds and Meta Hackercup, advancing to the later stages in each competition. Additionally, I have achieved global ranks under 300 in programming contests worldwide, showcasing my proficiency in competitive coding.
 Furthermore, my ability to conserve time and optimize workflows allows me to efficiently tackle complex coding challenges and deliver high-quality solutions.
 
